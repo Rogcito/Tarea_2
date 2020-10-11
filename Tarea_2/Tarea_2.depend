@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1590705610 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\csv.c
+	<stdio.h>
+	<stdlib.h>
+	"CSV.h"
+
+1590705608 c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\csv.h
+
+1595140265 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nodo.h"
+	"Lista.h"
+
+1590258891 c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\nodo.h
+
+1595140290 c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\lista.h
+	"Nodo.h"
+
+1601849844 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Mapa.h"
+
+1601849843 c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\mapa.h
+
+1590258902 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
+1601948165 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_2\pokemon.c
+	"Pokemon.h"
+
+1601948137 c:\users\rafae\desktop\tareas progra (diego)\tarea_2\pokemon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590171873 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<assert.h>
+
+1575514896 c:\users\rafae\desktop\tareas progra (diego)\tarea_2\tda&csv\sortedmap.h
+
+1602194082 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_2\funmain.c
+	"FunMain.h"
+
+1602195432 c:\users\rafae\desktop\tareas progra (diego)\tarea_2\funmain.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/Lista.h"
+	"TDA&CSV/CSV.h"
+	"Pokemon.h"
+
+1602195451 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"TDA&CSV/Lista.h"
+	"TDA&CSV/Mapa.h"
+	"FunMain.h"
+
